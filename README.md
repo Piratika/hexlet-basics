@@ -1,2 +1,2 @@
 # hexlet-basics
-console.log('чего-то там')
+чего-то там
